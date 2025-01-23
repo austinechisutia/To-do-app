@@ -17,6 +17,7 @@
   "homepage": "https://github.com/austinechisutia/To-do-app#readme",
   "description": "",
   "dependencies": {
+    "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.3"
   }
 }
